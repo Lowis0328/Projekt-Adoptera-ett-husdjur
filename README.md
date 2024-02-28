@@ -22,10 +22,14 @@ Kör appen: Slutligen kör vi appen med app.run(). Vi sätter debug=True för at
 Detta projekt är bra eftersom det lär oss grunderna i webbutveckling med Flask, inklusive hur man definierar rutter, genererar dynamisk HTML och hanterar HTTP-förfrågningar. Dessutom hjälper det oss att förstå hur webbapplikationer fungerar på en grundläggande nivå.
 
 ## Innehållsförteckning
-1. [Projektinformation](#projektinformation)
+1. [Projektinformation](#adoptera-husdjur)
 2. [Installationsinstruktioner](#installationsinstruktioner)
-3. [Användning](#användning)
-4. [Information om projektet Adoptera Husdjur](#information-om-projektet-adoptera-husdjur)
+3. [Bidrag](#bidrag)
+4. [Teknologi](#teknologi)
+5. [Funktioner](#funktioner)
+6. [Skärmdumpar](#skärmdumpar)
+7. [Licens](#licens)
+8. [Kontakt](#kontakt)
 
 ## Projektinformation
 Detta projekt är en del av kursen [Webbserverprogrammering] vid [NTI Gymnasiet Örebro]. Projektet utfördes i tvån.
@@ -47,12 +51,36 @@ För att installera och köra detta projekt, följ dessa steg:
 
 7. Öppna en webbläsare och gå till `http://localhost:5000` för att se applikationen.
 
-## Användning
-Förklara hur man använder ditt projekt. Om ditt projekt kan användas på olika sätt, visa alla.
+### Bidrag
 
-Information om projektet Adoptera Husdjur
-Här kan du skriva en stor mängd information om projektet Adoptera Husdjur och varför ni utförde detta projekt. Beskriv syftet, målen, processen, och alla andra relevanta detaljer.
+Vi välkomnar alla bidrag! Om du vill bidra, vänligen skicka en pull request.
 
-```
+## Teknologi
 
-Kom ihåg att ersätta [ditt-repo-länk] och [ditt-repo-namn] med den faktiska länken och namnet på ditt repository. Dessutom, om ditt projekt använder ett annat kommando för att starta, ersätt npm start med det korrekta kommandot.
+Detta projekt är byggt med följande teknologier:
+
+- Flask
+- Python
+- HTML
+
+## Funktioner
+
+Här är några av de huvudfunktioner som vår applikation erbjuder:
+
+- Bläddra igenom olika typer av husdjur
+- Se detaljerad information om varje husdjur
+
+## Skärmdumpar
+
+Här är några skärmdumpar av vår applikation:
+
+![Huvudskärm](images/main_screen.png)
+![Detaljskärm](images/detail_screen.png)
+
+## Licens
+
+Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer information.
+
+## Kontakt
+
+Om du har några frågor eller feedback, tveka inte att kontakta oss på [email@example.com](mailto:email@example.com).
