@@ -27,7 +27,7 @@ Detta projekt är bra eftersom det lär oss grunderna i webbutveckling med Flask
 3. [Teknologi](#teknologi)
 4. [Funktioner](#funktioner)
 5. [Licens](#licens)
-6. [Kontakt](#kontakt)
+6. [Bidragare](#Bidragare)
 
 ## Projektinformation
 Detta projekt är en del av kursen [Webbserverprogrammering] vid [NTI Gymnasiet Örebro]. Projektet utfördes i tvån.
@@ -71,7 +71,7 @@ Här är några av de huvudfunktioner som vår applikation erbjuder:
 
 Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer information.
 
-## Bidragsgivare
+## Bidgragare
 
 - Lowe Granegärd
 - Adam Khalid
