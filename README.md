@@ -27,9 +27,8 @@ Detta projekt är bra eftersom det lär oss grunderna i webbutveckling med Flask
 3. [Bidrag](#bidrag)
 4. [Teknologi](#teknologi)
 5. [Funktioner](#funktioner)
-6. [Skärmdumpar](#skärmdumpar)
-7. [Licens](#licens)
-8. [Kontakt](#kontakt)
+6. [Licens](#licens)
+7. [Kontakt](#kontakt)
 
 ## Projektinformation
 Detta projekt är en del av kursen [Webbserverprogrammering] vid [NTI Gymnasiet Örebro]. Projektet utfördes i tvån.
@@ -69,13 +68,7 @@ Här är några av de huvudfunktioner som vår applikation erbjuder:
 
 - Bläddra igenom olika typer av husdjur
 - Se detaljerad information om varje husdjur
-
-## Skärmdumpar
-
-Här är några skärmdumpar av vår applikation:
-
-![Huvudskärm](images/main_screen.png)
-![Detaljskärm](images/detail_screen.png)
+- Enkelt att implementera nya husdjur och ändra funktionen av programmet
 
 ## Licens
 
