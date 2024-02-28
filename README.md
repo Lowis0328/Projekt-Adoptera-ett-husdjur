@@ -71,4 +71,4 @@ Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer
 
 ## Kontakt
 
-Om du har några frågor eller feedback, tveka inte att kontakta oss på [email@example.com](mailto:lowe.granegard@elev.ga.ntig.se).
+Om du har några frågor eller feedback, tveka inte att kontakta oss på [lowe.granegard@elev.ga.ntig.se](mailto:lowe.granegard@elev.ga.ntig.se).
