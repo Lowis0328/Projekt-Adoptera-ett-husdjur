@@ -15,7 +15,7 @@ Definiera rutter (routes): Vi definierar flera rutter för vår app:
 
 @app.route('/animals/<string:pet_type>/<int:pet_id>'): Denna sida visar detaljerad information om ett specifikt husdjur. pet_type och pet_id är båda variabler i rutten.
 
-Skapa HTML-respons: För varje ruta genererar vi en HTML-respons som visar relevant information. Vi använder Python's f-string syntax för att infoga variabler direkt i HTML-koden.
+Skapa HTML-respons: För varje route genererar vi en HTML-respons som visar relevant information. Vi använder Python's f-string syntax för att infoga variabler direkt i HTML-koden.
 
 Kör appen: Slutligen kör vi appen med app.run(). Vi sätter debug=True för att aktivera debug-läge, vilket gör att vi kan se detaljerade felmeddelanden om något går fel. Vi sätter också host="0.0.0.0" för att tillåta anslutningar från alla nätverksgränssnitt på servern.
 
@@ -56,6 +56,8 @@ Detta projekt är byggt med följande teknologier:
 - Flask
 - Python
 - HTML
+- Python f-strings
+- Dynamiska rutter
 
 ## Funktioner
 
@@ -69,6 +71,8 @@ Här är några av de huvudfunktioner som vår applikation erbjuder:
 
 Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer information.
 
-## Kontakt
+## Bidragsgivare
 
-Om du har några frågor eller feedback, tveka inte att kontakta oss på [lowe.granegard@elev.ga.ntig.se](mailto:lowe.granegard@elev.ga.ntig.se).
+- Lowe Granegärd
+- Adam Khalid
+- Zion Temo
