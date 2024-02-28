@@ -24,11 +24,10 @@ Detta projekt är bra eftersom det lär oss grunderna i webbutveckling med Flask
 ## Innehållsförteckning
 1. [Projektinformation](#adoptera-husdjur)
 2. [Installationsinstruktioner](#installationsinstruktioner)
-3. [Bidrag](#bidrag)
-4. [Teknologi](#teknologi)
-5. [Funktioner](#funktioner)
-6. [Licens](#licens)
-7. [Kontakt](#kontakt)
+3. [Teknologi](#teknologi)
+4. [Funktioner](#funktioner)
+5. [Licens](#licens)
+6. [Kontakt](#kontakt)
 
 ## Projektinformation
 Detta projekt är en del av kursen [Webbserverprogrammering] vid [NTI Gymnasiet Örebro]. Projektet utfördes i tvån.
@@ -50,10 +49,6 @@ För att installera och köra detta projekt, följ dessa steg:
 
 7. Öppna en webbläsare och gå till `http://localhost:5000` för att se applikationen.
 
-### Bidrag
-
-Vi välkomnar alla bidrag! Om du vill bidra, vänligen skicka en pull request.
-
 ## Teknologi
 
 Detta projekt är byggt med följande teknologier:
@@ -68,7 +63,7 @@ Här är några av de huvudfunktioner som vår applikation erbjuder:
 
 - Bläddra igenom olika typer av husdjur
 - Se detaljerad information om varje husdjur
-- Enkelt att implementera nya husdjur och ändra funktionen av programmet
+- Smidigt att implementera nya husdjur och ändra funktionen av programmet
 
 ## Licens
 
@@ -76,4 +71,4 @@ Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer
 
 ## Kontakt
 
-Om du har några frågor eller feedback, tveka inte att kontakta oss på [email@example.com](mailto:email@example.com).
+Om du har några frågor eller feedback, tveka inte att kontakta oss på [email@example.com](mailto:lowe.granegard@elev.ga.ntig.se).
