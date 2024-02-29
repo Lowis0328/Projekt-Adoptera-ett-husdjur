@@ -23,12 +23,11 @@ Detta projekt är bra eftersom det lär oss grunderna i webbutveckling med Flask
 
 ## Innehållsförteckning
 1. [Projektinformation](#adoptera-husdjur)
-2. [Projektinformation](#Projektinformation)
-3. [Installationsinstruktioner](#installationsinstruktioner)
-4. [Teknologi](#teknologi)
-5. [Funktioner](#funktioner)
-6. [Licens](#licens)
-7. [Bidragare](#Bidragare)
+2. [Installationsinstruktioner](#installationsinstruktioner)
+3. [Teknologi](#teknologi)
+4. [Funktioner](#funktioner)
+5. [Licens](#licens)
+6. [Bidragare](#Bidragare)
 
 ## Projektinformation
 Detta projekt är en del av kursen [Webbserverprogrammering] vid [NTI Gymnasiet Örebro]. Projektet utfördes i tvån.
