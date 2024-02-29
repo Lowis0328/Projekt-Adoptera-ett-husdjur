@@ -71,7 +71,7 @@ Här är några av de huvudfunktioner som vår applikation erbjuder:
 
 Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer information.
 
-## Bidgragare
+## Bidragare
 
 - Lowe Granegärd
 - Adam Khalid
