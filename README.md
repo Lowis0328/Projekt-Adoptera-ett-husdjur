@@ -35,7 +35,7 @@ Detta projekt är en del av kursen [Webbserverprogrammering] vid [NTI Gymnasiet 
 ## Installationsinstruktioner
 För att installera och köra detta projekt, följ dessa steg:
 
-1. Klona detta repo till din lokala maskin med `git clone <https://github.com/Lowis0328/Projekt-Adoptera-ett-husdjur.git>`.
+1. Klona detta repo till din lokala maskin med `git clone https://github.com/Lowis0328/Projekt-Adoptera-ett-husdjur.git`.
 
 2. Navigera till projektets rotkatalog med `cd <project-directory>`.
 
