@@ -74,5 +74,5 @@ Detta projekt är licensierat under MIT-licensen. Se [LICENSE](LICENSE) för mer
 ## Bidragare
 
 - Lowe Granegärd
-- Adam Khalid
+- Adam Al-Mashadani
 - Zion Temo
